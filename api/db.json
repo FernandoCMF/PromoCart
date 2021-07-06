@@ -1,0 +1,77 @@
+{
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
+      "price": 1799,
+      "url": "",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+    },
+    {
+      "id": 2,
+      "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
+      "price": 246.05,
+      "url": "",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/0324bf9ad81ccbc5a8e22a1a41015649.png"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "TELA HD",
+      "promotionId": 1,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "comment": "de R$ 599,90 \n por R$246,05à vista \n (5% de desconto) \n ou R$ 259,00 em 5x de R$ 51,80 sem juros",
+      "promotionId": 2,
+      "userId": 2
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "teste",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "teste2",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "resposta teste",
+      "parentId": 1,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "teste de comentario",
+      "parentId": 2,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "teste de comentario 2",
+      "parentId": 7,
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Carlos",
+      "avatarUrl": "https://uifaces.co/our-content/donated/gPZwCbdS.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Claudia",
+      "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=046c29138c1335ef8edee7daf521ba50"
+    }
+  ]
+}
