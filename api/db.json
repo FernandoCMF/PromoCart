@@ -8,11 +8,11 @@
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
     },
     {
-      "id": 2,
-      "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
-      "price": 246.05,
-      "url": "",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/0324bf9ad81ccbc5a8e22a1a41015649.png"
+      "title": "Fone de Ouvido Sony Intra-Auricular WI-C200 Sem Fio e com Bluetooth - Preto",
+      "url": "https://tidd.ly/3wDxzer",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/880a993d8b8702f8b60f907cc769e3bd.png",
+      "price": "138.55",
+      "id": 2
     }
   ],
   "comments": [
@@ -21,24 +21,6 @@
       "comment": "TELA HD",
       "promotionId": 1,
       "userId": 1
-    },
-    {
-      "id": 2,
-      "comment": "de R$ 599,90 \n por R$246,05à vista \n (5% de desconto) \n ou R$ 259,00 em 5x de R$ 51,80 sem juros",
-      "promotionId": 2,
-      "userId": 2
-    },
-    {
-      "userId": 1,
-      "promotionId": 2,
-      "comment": "teste",
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "promotionId": 2,
-      "comment": "teste2",
-      "id": 4
     },
     {
       "userId": 1,
@@ -50,14 +32,13 @@
     {
       "userId": 1,
       "promotionId": 2,
-      "comment": "teste de comentario",
-      "parentId": 2,
+      "comment": "Boa qualidade de som",
       "id": 7
     },
     {
       "userId": 1,
       "promotionId": 2,
-      "comment": "teste de comentario 2",
+      "comment": "Realmente",
       "parentId": 7,
       "id": 8
     }
